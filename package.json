@@ -11,6 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/pwa": "^2.0.8",
     "nuxt": "^1.0.0",
     "vue-qrcode-reader": "^0.8.5",
     "vue-socket.io": "^2.1.1-b"
